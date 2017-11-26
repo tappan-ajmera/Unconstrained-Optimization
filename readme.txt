@@ -1,4 +1,3 @@
-# Unconstrained Optimization
 Steps for Unconstrained Optimization
 
 # Execute these commands to run methods for function 3
